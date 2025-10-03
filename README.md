@@ -1,15 +1,11 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://jash200115.io)
-<h1 align="center">Hi 👋, I'm Jash Kumar Roy</h1>
-<h3 align="center">A Student of IIT GUWAHATI ,INDIA.</h3>
+<h1 align="center">Hi 👋, I'm Jash Roy</h1>
+<h3 align="center">SDE 1 at MasterCard</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding" srcset="">
 
-- 🔭 I’m currently working on [OLX_Project](https://github.com/jash200115/Olx_Project)
+- 🔭 Hi, I'm Jash Roy, a Software Development Engineer I at Mastercard, currently working as a DevOps engineer. So far I’ve built advanced Splunk dashboards to monitor real-time system metrics across platforms like Chef, Artifactory, WAF, and Splunk, and automated their deployment using a custom Python module integrated with Stash. At Mastercard—a global technology company in the payments industry—I’ve led initiatives across tools like Artifactory, Chef, Packer, Xray, Bitbucket, and WAF, including designing a Packer template for Ubuntu 22.10 with Azure Arc integration. I'm an enthusiastic learner, always eager to explore new technologies and improve system reliability through automation and observability.
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [Codeforces_Visualizer](https://github.com/jash200115/Codeforces_Visualizer-Chrome-Extensio-)
-
-- 👨‍💻 All of my projects are available at [https://github.com/jash200115?tab=repositories](https://github.com/jash200115?tab=repositories)
+- 👨‍💻 All of my personal projects are available at [https://github.com/jash200115?tab=repositories](https://github.com/jash200115?tab=repositories)
 
 - 📫 How to reach me **jashroy15@gmail.com**
 
